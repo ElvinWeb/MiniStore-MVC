@@ -1,0 +1,46 @@
+﻿@model Post;
+<style>
+    .form-container {
+        max-width: 700px;
+        padding: 50px;
+        margin-bottom: 50px;
+        border-left: 7px solid #435d7d !important;
+        border-radius: 3px;
+    }
+
+    .btn-info, .btn-primary {
+        width: 150px;
+    }
+</style>
+<div class="container shadow form-container">
+    <div>
+        <h1 class="title mb-3">Create a Post</h1>
+    </div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="" class="form-label">Title</label>
+            <input asp-for="Title" type="text" class="form-control">
+            <span asp-validation-for="Title" style="color:red"></span>
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">PostDate</label>
+            <input asp-for="PostDate" type="text" class="form-control">
+            <span asp-validation-for="PostDate" style="color:red"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="" class="form-label">Category</label>
+            <input asp-for="Category" type="text" class="form-control">
+            <span asp-validation-for="Category" style="color:red"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="" class="form-label">Image</label>
+            <input asp-for="Image" class="form-control">
+            <span asp-validation-for="Image" style="color:red"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary ">Submit</button>
+        <a class="btn btn-info" asp-action="Index" asp-controller="Post">Back To Home</a>
+    </form>
+</div>

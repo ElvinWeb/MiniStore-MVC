@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\bin\Debug\net7.0\MiniStore.Data.deps.json
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\bin\Debug\net7.0\MiniStore.Data.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\bin\Debug\net7.0\MiniStore.Data.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\refint\MiniStore.Data.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\ref\MiniStore.Data.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\bin\Debug\net7.0\MiniStore.Core.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\bin\Debug\net7.0\MiniStore.Core.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\bin\Debug\net7.0\MiniStore.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Data\obj\Debug\net7.0\MiniStore.Data.genruntimeconfig.cache

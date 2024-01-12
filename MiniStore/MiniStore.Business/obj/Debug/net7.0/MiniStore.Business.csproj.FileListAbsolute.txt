@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\bin\Debug\net7.0\MiniStore.Business.deps.json
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\bin\Debug\net7.0\MiniStore.Business.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\bin\Debug\net7.0\MiniStore.Business.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\refint\MiniStore.Business.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\ref\MiniStore.Business.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\bin\Debug\net7.0\MiniStore.Core.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\bin\Debug\net7.0\MiniStore.Data.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\bin\Debug\net7.0\MiniStore.Data.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\bin\Debug\net7.0\MiniStore.Core.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Business\obj\Debug\net7.0\MiniStore.Business.csproj.CopyComplete

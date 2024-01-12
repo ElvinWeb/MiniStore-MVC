@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\bin\Debug\net7.0\MiniStore.Core.deps.json
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\bin\Debug\net7.0\MiniStore.Core.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\bin\Debug\net7.0\MiniStore.Core.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\MiniStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\MiniStore.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\MiniStore.Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\MiniStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\MiniStore.Core.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\refint\MiniStore.Core.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\MiniStore.Core.pdb
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\ref\MiniStore.Core.dll
+C:\Users\II novbe\Desktop\all task\ExamPractice\MiniStore\MiniStore.Core\obj\Debug\net7.0\MiniStore.Core.csproj.AssemblyReference.cache
